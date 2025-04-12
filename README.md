@@ -103,4 +103,4 @@ This tool is for educational purposes only. Use it at your own risk. Job portals
 
 ## License
 
-MIT License 
+©️Shivanshu
